@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.example.rasel.dicegame"
+        applicationId "com.olivine.dicegame"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1
